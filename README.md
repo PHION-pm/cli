@@ -1,2 +1,3 @@
-# cli
-the package manager for rice configs
+# PHION CLI
+
+Command-Line Interface for the PHION Project.
